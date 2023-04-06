@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my portfolio ♡
 - 🎀 I’m currently learning UX/UI Design, TypeScript and Python
 - 🎧 Ask me anything! I'm happy to help :)
-- 🌸 I love books, art, anime, coffe & code
+- 🌸 I love books, art, anime, coffee & code
 <br/>
 
 <h3 align="center">Languages and Tools</h3>
