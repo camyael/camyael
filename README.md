@@ -6,7 +6,7 @@
 <br/>
 <img align="right" src="https://github.com/camyael/camyael/blob/main/assets/me.gif?raw=true" width="150"/>
 
-- 🔭 I’m currently working on my portfolio ♡
+- 🔭 I’m currently working on a notes app ♡
 - 🎀 I’m currently learning UX/UI Design, TypeScript and Python
 - 🎧 Ask me anything! I'm happy to help :)
 - 🌸 I love books, art, anime, coffee & code
