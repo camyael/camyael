@@ -1,5 +1,5 @@
 <h2 align="center">Hi there! I'm Camila💗</h2>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 <p align="center">from Argentina, based in Buenos Aires</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=camyael&label=Profile%20views&color=fb6f92&style=flat" alt="blackdagger007" /> </p>
